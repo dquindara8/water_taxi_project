@@ -40,7 +40,7 @@ nav ul li a:hover {
 
 /* Hero Section */
 .hero-section {
-    background-image: url('images/water-taxi1.jpg'); /* Path to your hero background image */
+    background-image: url('/images/water-taxi1.jpg'); /* Path to your hero background image */
     background-size: cover;
     background-position: center;
     color: #fff;
