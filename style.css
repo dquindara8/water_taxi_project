@@ -41,8 +41,8 @@ nav ul li a:hover {
 /* Hero Section */
 .hero-section {
     background-image: url('/images/water-taxi1.jpg'); /* Path to your hero background image */
-    background-size: cover;
-    background-position: center;
+    background-size: contain;
+    background-position: center right;
     color: #fff;
     padding: 100px 0;
     position: relative;
