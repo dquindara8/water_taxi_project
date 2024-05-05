@@ -48,6 +48,25 @@ nav ul li a:hover {
     position: relative;
 }
 
+/* Hero Section Content */
+.hero-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 1;
+}
+
+.hero-content h1 {
+    font-size: 48px;
+}
+
+.hero-content p {
+    font-size: 20px;
+}
+
+
 /* Main Section Background Color (index.html) */
 .main-section {
     background-color: #f8f9fa; /* Bootstrap's background color */
