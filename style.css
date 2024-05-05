@@ -15,6 +15,10 @@ header {
     padding: 100px 0;
 }
 
+.display-4{
+    color: whitesmoke;
+}
+
 /* Navigation */
 nav ul {
     list-style-type: none;
@@ -50,7 +54,7 @@ nav ul li a:hover {
 
 /* Hero Section Content */
 .hero-content {
-    color: white;
+    color: rgb(148, 208, 228);
     position: absolute;
     top: 50%;
     left: 50%;
